@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import cvlib as cv
 import torch
-import cv2
+
 import glob as glob
 import torch
 import easyocr
